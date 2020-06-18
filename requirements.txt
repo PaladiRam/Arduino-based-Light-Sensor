@@ -1,0 +1,7 @@
+Arduino Uno
+100 ohm resistor x3
+LED x3
+Photo resistor(LDR)
+Bread Board
+Jumper wires
+220 ohm resisto
